@@ -10,7 +10,7 @@ GitHub provides a CSV file of the billing for Actions. However getting that into
 
 Parsing this report can turn this into something actionable that your team can work on to reduce costs.
 
-To get the report follow **Step 7** of [this page](https://docs.github.com/en/billing/managing-billing-for-github-actions/viewing-your-github-actions-usage#viewing-github-actions-usage-for-your-organization). Note that the billing rates for the [different SKUs are here](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions#per-minute-rates).
+To get the report for your account or organization follow **Step 7** of [this page](https://docs.github.com/en/billing/managing-billing-for-github-actions/viewing-your-github-actions-usage#viewing-github-actions-usage-for-your-organization). Note that the billing rates for the [different SKUs are here](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions#per-minute-rates).
 
 ### Installation
 
