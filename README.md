@@ -34,6 +34,19 @@ Report from 2023-01-20 to 2023-01-25
 Owner                       |Number    |Minutes   |Cost      |Average   |Slowest
 ----------------------------|----------|----------|----------|----------|----------
 andymckay                   |         5|        50|    0.4000|        10|        34
+
+Repository                  |Number    |Minutes   |Cost      |Average   |Slowest
+----------------------------|----------|----------|----------|----------|----------
+playground                  |         2|         2|    0.0160|         1|         1
+example-repo-one            |         1|        34|    0.2720|        34|        34
+example-repo-two            |         1|         3|    0.0240|         3|         3
+example-repo                |         1|        11|    0.0880|        11|        11
+
+Workflow                    |Number    |Minutes   |Cost      |Average   |Slowest
+----------------------------|----------|----------|----------|----------|----------
+.github/workflows/main.yml  |         2|         2|    0.0160|         1|         1
+.github/workflows/blank.yml |         2|        37|    0.2960|      18.5|        34
+.github/workflows/django.yml|         1|        11|    0.0880|        11|        11
 ```
 
 ### Contributing
