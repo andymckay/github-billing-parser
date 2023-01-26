@@ -1,5 +1,7 @@
 ### What
 
+[![Python tests](https://github.com/andymckay/github-billing-parser/actions/workflows/python-app.yml/badge.svg)](https://github.com/andymckay/github-billing-parser/actions/workflows/python-app.yml)
+
 GitHub provides a CSV file of the billing for Actions. However getting that into actionable data often requires a quick parse through for large organisations. You might want to answer questions quickly such:
 
 * Which repository is spending the most money?
